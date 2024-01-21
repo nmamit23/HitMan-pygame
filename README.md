@@ -1,16 +1,16 @@
-### download Code > zip > unzip
+### Download Code > zip > unzip
 
-### install python3 from: 
+### Install python3 from: 
 > https://www.python.org/downloads/windows/
 
-### install pygame python3 using: 
+### Install pygame python3 using: 
 ```
 py -m ensurepip --upgrade
 
 -m pip install -U pygame --user
 ```
 
-### run extracted folder using 
+### Run in extracted folder using 
 ```
 python3 main.py
 ```
