@@ -1,7 +1,6 @@
 ### Download Code > zip > unzip
 
-### Install python3 from: 
-> https://www.python.org/downloads/windows/
+### Install python3 from: [Python Download](https://www.python.org/downloads/windows/)
 
 ### Install pygame python3 using: 
 ```
