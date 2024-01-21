@@ -20,13 +20,13 @@ W A S D keys for moving scope and aiming
 
 Left Mouse Click for Shoot
 
-![screenshot of gameplay](https://nmamit23.github.io/HitMan-pygame/gameplay1.png)
+![screenshot of gameplay](https://nmamit23.github.io/hitman/gameplay1.png)
 
 Time 20 Seconds
 
 Extra points for head shot
 
-![screenshot of gameplay](https://nmamit23.github.io/HitMan-pygame/gameplay2.png)
+![screenshot of gameplay](https://nmamit23.github.io/hitman/gameplay2.png)
 
 
 -BY SRUJAN M PADMASHALI
