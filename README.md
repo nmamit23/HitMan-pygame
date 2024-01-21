@@ -1,6 +1,6 @@
-### Download Code > zip > unzip
+### Download and unzip:  [Zip File Source Code](https://github.com/nmamit23/HitMan-pygame/archive/refs/tags/code.zip)
 
-### Install python3 from: [Python Download](https://www.python.org/downloads/windows/)
+### Install python3 from:  [Python Download](https://www.python.org/downloads/windows/)
 
 ### Install pygame python3 using: 
 ```
