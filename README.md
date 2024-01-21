@@ -9,7 +9,7 @@ py -m ensurepip --upgrade
 -m pip install -U pygame --user
 ```
 
-### Run in extracted folder using 
+### Run main.py 
 ```
 python3 main.py
 ```
