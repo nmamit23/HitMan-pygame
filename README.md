@@ -22,6 +22,8 @@ Left Mouse Click for Shoot
 
 ![screenshot of gameplay](https://nmamit23.github.io/hitman/gameplay1.png)
 
+![Video of gameplay](https://nmamit23.github.io/hitman/gameplayvideo.mp4)
+
 Time 20 Seconds
 
 Extra points for head shot
