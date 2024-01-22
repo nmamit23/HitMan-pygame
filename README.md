@@ -23,14 +23,14 @@ W A S D keys for moving scope and aiming
 
 Left Mouse Click for Shoot
 
-![screenshot of gameplay](https://nmamit23.github.io/hitman/gameplay1.png)
+![gameplay1](https://github.com/nmamit23/hitman/assets/152040082/13e3b3d1-7c7d-4a4d-a40a-3734c1fed456)
+
 
 Time 20 Seconds
 
 Extra points for head shot
 
-![screenshot of gameplay](https://nmamit23.github.io/hitman/gameplay2.png)
-
+![gameplay2](https://github.com/nmamit23/hitman/assets/152040082/5273cdb3-f914-4c8f-82e0-c7a93fe5d247)
 
 -BY SRUJAN M PADMASHALI
 
