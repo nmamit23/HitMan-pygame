@@ -16,13 +16,14 @@ python3 main.py
 ```
 
 ## Gameplay
+
+https://github.com/nmamit23/hitman/assets/152040082/34f1d69f-7d01-4e2d-9548-95a6cec6f338
+
 W A S D keys for moving scope and aiming
 
 Left Mouse Click for Shoot
 
 ![screenshot of gameplay](https://nmamit23.github.io/hitman/gameplay1.png)
-
-![Video of gameplay](https://nmamit23.github.io/hitman/gameplayvideo.mp4)
 
 Time 20 Seconds
 
