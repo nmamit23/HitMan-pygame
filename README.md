@@ -1,5 +1,5 @@
 ## Setup
-### Download and unzip:  [Zip File Source Code](https://github.com/nmamit23/HitMan-pygame/archive/refs/tags/code.zip)
+### Download and unzip:  [Zip File Source Code](https://github.com/nmamit23/hitman/archive/refs/tags/code.zip)
 
 ### Install python3 from:  [Python Download](https://www.python.org/downloads/windows/)
 
