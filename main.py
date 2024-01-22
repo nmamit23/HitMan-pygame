@@ -23,6 +23,7 @@ speed=7
 #score
 score=0;
 shots=0;
+# time.sleep(10)
 while running:
     
     
@@ -35,6 +36,35 @@ while running:
         if event.type == pygame.MOUSEBUTTONDOWN:
             if event.button == 1:
                 shots=shots+1
+                
+                
+                
+                screen.fill("white")
+                screen.blit(man, (x,y))
+                screen.blit(scope, (0,5))
+                screen.blit(scoreDisplay, (500, 30))
+                screen.blit(shotsDisplay, (500, 50))
+                screen.blit(myFont.render("time: "+str(int(timec)),1,"white"), (500, 70))
+                pygame.display.flip()
+                
+                # time.sleep(0.05)
+                screen.fill("white")
+                screen.blit(man, (x,y))
+                screen.blit(scope, (0,-2))
+                screen.blit(scoreDisplay, (500, 30))
+                screen.blit(shotsDisplay, (500, 50))
+                screen.blit(myFont.render("time: "+str(int(timec)),1,"white"), (500, 70))
+                pygame.display.flip()
+                
+                # time.sleep(0.05)
+                screen.fill("white")
+                screen.blit(man, (x,y))
+                screen.blit(scope, (0,0))
+                screen.blit(scoreDisplay, (500, 30))
+                screen.blit(shotsDisplay, (500, 50))
+                screen.blit(myFont.render("time: "+str(int(timec)),1,"white"), (500, 70))
+                pygame.display.flip()
+                
                 if(x>screenx/2-sizex and x<screenx/2 and y>screeny/2-sizey and y<screeny/2):
                     x=random.randrange(100,500)
                     y=random.randrange(100,500)
